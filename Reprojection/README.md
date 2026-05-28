@@ -9,6 +9,7 @@ Runs headless (no GUI), works on macOS, Windows, and Linux.
 
 - QGIS 3.x installed (the script uses its bundled Python and GDAL)
 - Run with the **system Python** (not QGIS's internal Python interpreter)
+- `misc/qgis_env.py` must be present at the repo root level (shared bootstrap utilities)
 
 ---
 
